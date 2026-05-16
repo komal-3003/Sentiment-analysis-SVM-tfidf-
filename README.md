@@ -17,7 +17,7 @@ The objective of this project is to build an intelligent Emotion Detection syste
 - Model Accuracy
 - Real-Time Emotion Detection
 ## Dataset used
-- <a href="">Dataset</a>
+- <a href="https://github.com/komal-3003/Sentiment-analysis-SVM-tfidf-/blob/main/train.txt">Dataset</a>
 ## Project Process
 ## 1️.Data Collection
 - The dataset contains text samples labeled with corresponding emotions.
@@ -76,6 +76,8 @@ The objective of this project is to build an intelligent Emotion Detection syste
 - Scikit-learn
 - Streamlit
 - Pickle
+## Emotion Detection App Interface
+- <a href="https://github.com/komal-3003/Sentiment-analysis-SVM-tfidf-/blob/main/train.txt">View App</a>
 
 ## Project Insights
 - TF-IDF with LinearSVC performs effectively for text classification tasks
